@@ -52,3 +52,5 @@ This is a **front-end demo**, not a complete online store. It does not process p
 2. Store cart items in `localStorage`.
 3. Connect the newsletter form to a real email service.
 4. Add a backend and secure checkout before accepting real orders.
+5.Hero: https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80
+   ban : https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=1200&q=80
